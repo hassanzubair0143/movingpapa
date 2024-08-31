@@ -53,7 +53,6 @@ function Navbar() {
           <div className='flex justify-center items-center w-[20%] lg:w-[20%] border-b lg:border-b-0 lg:border-r border-[#6D6D6D] p-4 lg:p-0'>
             <p className='text-center text-[22px] sm:text-[26px]'>Sign Up</p>
           </div>
-
           <div className='flex justify-center items-center w-[20%] lg:w-[20%] p-4 lg:p-0'>
             <p className='text-center text-[22px] sm:text-[26px]'>Login</p>
           </div>

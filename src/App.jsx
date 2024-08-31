@@ -8,7 +8,6 @@ import StorySection from './components/storiesSection'
 import QuoteSection from './components/quoteSection'
 import Footer from './components/footer'
 function App() {
- 
 
   return (
     <>
