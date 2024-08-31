@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: 'arialBold';
+    src: url('./font/arialroundedmtbold.ttf') format('truetype');
+    
+}
