@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import Logo from '../assets/Logo.png';
-import Location from '../assets/Location.png';
+import Logo from '../assets/logo.png';
+import Location from '../assets/location.png';
 import Union from '../assets/Union.png';
 import MenuIcon from '@mui/icons-material/Menu';
 import CloseIcon from '@mui/icons-material/Close';
@@ -18,7 +18,7 @@ function Navbar() {
         {/* Logo and Book a Move Button */}
         <div className='flex flex-row justify-between w-[90%] lg:w-[50%] items-center p-4 lg:py-0 lg:border-r border-[#6D6D6D]'>
           <div className='flex items-center'>
-            <img src={Logo} alt="Logo" className='h-[30px] w-[45%] sm:h-[57px] lg:h-[57px]' />
+            <img src={Logo} alt="Logo-1" className='h-[30px] w-[45%] sm:h-[57px] lg:h-[57px]' />
           </div>
           <div className='flex items-center'>
             <button className='px-4 text-[12px] lg:py-2 rounded-full bg-[#F84734] text-white hover:bg-[#00292A] transition-all duration-300'>
