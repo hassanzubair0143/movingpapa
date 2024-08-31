@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import Arrow from '../assets/arrow.png';
-import Card from './Card'; // Assuming Card is a component or an image
+import Card from './card'; // Assuming Card is a component or an image
 import ArrowBackIcon from '@mui/icons-material/ArrowBack';
 import ArrowForwardIcon from '@mui/icons-material/ArrowForward';
 
